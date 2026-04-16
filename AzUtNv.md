@@ -2,13 +2,13 @@
 ### Cholla Campground is FCFS, Alternates Nearby
 ### 2 Sunrises I'd like to see in Sedona and Bryce Canyon (5 am)
 ### The Wave Permit:
-Apply Monday
-[The Wave Permit](https://www.recreation.gov/permits/4251909)
-------- [Pickup Here](https://maps.app.goo.gl/pWbazDyDY8z6FGPq8)
+Apply Monday  
+[The Wave Permit](https://www.recreation.gov/permits/4251909)  
+------- [Pickup Here](https://maps.app.goo.gl/pWbazDyDY8z6FGPq8)  
 ### Angels Landing Permit:
-Apply Thursday and Friday
-[Angels Landing Permit](https://www.recreation.gov/permits/4675310)
------- Downloadable
+Apply Thursday and Friday  
+[Angels Landing Permit](https://www.recreation.gov/permits/4675310)  
+------ Downloadable  
 
 ## Weather - Sunny all week, Highs of 56-91, Lows 25 - 66
 ### Saturday - Mesa - 91/66, Roosevelt Lake 86/57
@@ -31,7 +31,7 @@ Apply Thursday and Friday
 11:00 - Arrive Mesa  
 13:00 - Leave Mesa  
 \>\> 45 Min  
-[Fremont Saddle via Peralta Trail](https://maps.app.goo.gl/ghERJVH37sGrHuLbA) - 2.5 Hours  
+[Fremont Saddle via Peralta Trail (4.6 Miles](https://maps.app.goo.gl/ghERJVH37sGrHuLbA)
 \>\> 1.25 Hrs  
 [Food in Globe, AZ](https://maps.app.goo.gl/D3vnDjWeHU9QwKVx7)  
 \>\> 45 Min  
@@ -126,7 +126,6 @@ Sunset Crate National Monument
 ## Wednesday - Page > Bryce Canyon
 ### Start - Lake Powell Resort - Page, AZ
 
-Paria Canyon Stuff -   
 \>\> 1 Hr  
 [Buckskin Gulch via Wire Pass (6 Miles)](https://maps.app.goo.gl/VLhUyjooko4saoLH7)  
 \>\> 15 Min   
