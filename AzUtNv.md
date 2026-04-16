@@ -46,7 +46,7 @@ Hard - Flatiron and Peak 5024 (Siphon Draw)
 ## Sunday - Roosevelt Lake > Sedona
 ### Start - Cholla Campground, Roosevelt Lake, AZ
 
-5:30 - Leave  
+Leave  
 \>\> 1 Hr  
 [Water Wheel Falls (1.5 Miles)](https://maps.app.goo.gl/pdsCxf8iEFsn7op27)  
 \>\> 1.25 Hrs  
@@ -56,7 +56,7 @@ Hard - Flatiron and Peak 5024 (Siphon Draw)
   
 or  
   
-5:30 - Leave  
+Leave  
 \>\> 1 Hr  
 [Water Wheel Falls (1.5 Miles)](https://maps.app.goo.gl/pdsCxf8iEFsn7op27)  
 \>\> 1.5 Hrs  
@@ -126,6 +126,7 @@ Sunset Crate National Monument
 ## Wednesday - Page > Bryce Canyon
 ### Start - Lake Powell Resort - Page, AZ
 
+Leave  
 \>\> 1 Hr  
 [Buckskin Gulch via Wire Pass (6 Miles)](https://maps.app.goo.gl/VLhUyjooko4saoLH7)  
 \>\> 15 Min   
@@ -145,7 +146,8 @@ Golden Wall/Buckhorn Loop (5 Miles)
 ### End - Kodachrome Basin State Park, Henrieville, UT
 ## Thursday - Bryce > Zion
 ### Start - Kodachrome Basin State Park, Henrieville, UT
-  
+
+Leave  
 \>\> 45 Minutes  
 [Figure 8 Loop in Bryce Canyon (6.4 Miles)](https://maps.app.goo.gl/nPBzk7XvWxtDJLcv9)  
 \>\> 45 min  
