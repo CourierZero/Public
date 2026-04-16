@@ -50,13 +50,13 @@ Hard - Flatiron and Peak 5024 (Siphon Draw)
 ## Sunday - Roosevelt Lake > Sedona
 ### Start - Cholla Campground, Roosevelt Lake, AZ
 
-5:30 - Leave
-\>\> 1 Hr
-[Water Wheel Falls (1.5 Miles)](https://maps.app.goo.gl/pdsCxf8iEFsn7op27)
-\>\> 1.25 Hrs
-[Point Trail and West Clear Creek (Ground Clearance) (3.7 Miles)](https://maps.app.goo.gl/JmKtb7CDGXakx68UA)
-\>\> 1.75 Hrs
-[Manzanita Campground - Site 16](https://maps.app.goo.gl/FFbb9xfERrbLK6C99)
+5:30 - Leave  
+\>\> 1 Hr  
+[Water Wheel Falls (1.5 Miles)](https://maps.app.goo.gl/pdsCxf8iEFsn7op27)  
+\>\> 1.25 Hrs  
+[Point Trail and West Clear Creek (Ground Clearance) (3.7 Miles)](https://maps.app.goo.gl/JmKtb7CDGXakx68UA)  
+\>\> 1.75 Hrs  
+[Manzanita Campground - Site 16](https://maps.app.goo.gl/FFbb9xfERrbLK6C99)  
 
 or
 
