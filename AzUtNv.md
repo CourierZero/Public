@@ -120,7 +120,7 @@ Leave
   
 Alternates:   
 Walnut Canyon National Monument  
-Sunset Crate National Monument  
+Sunset Crater National Monument  
   
 ### End - Lake Powell Resort - Page, AZ
 ## Wednesday - Page > Bryce Canyon
