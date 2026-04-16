@@ -38,9 +38,13 @@ Apply Thursday and Friday
 [Cholla Campground](https://maps.app.goo.gl/6xwpuoS4epqkKaKF9)
 
 **Alternates:**
+
 Easy - Arnett Canyon / Picketpost Mountain
+
 Medium - Boulder Canyon
+
 Hard - Flatiron and Peak 5024 (Siphon Draw)
+
 
 ### End - Cholla Campground, Roosevelt Lake, AZ
 ## Sunday - Roosevelt Lake > Sedona
