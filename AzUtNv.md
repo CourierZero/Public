@@ -31,7 +31,7 @@ Apply Thursday and Friday
 11:00 - Arrive Mesa  
 13:00 - Leave Mesa  
 \>\> 45 Min  
-[Fremont Saddle via Peralta Trail (4.6 Miles](https://maps.app.goo.gl/ghERJVH37sGrHuLbA)
+[Fremont Saddle via Peralta Trail (4.6 Miles)](https://maps.app.goo.gl/ghERJVH37sGrHuLbA)  
 \>\> 1.25 Hrs  
 [Food in Globe, AZ](https://maps.app.goo.gl/D3vnDjWeHU9QwKVx7)  
 \>\> 45 Min  
