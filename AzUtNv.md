@@ -87,7 +87,7 @@ Cyprus Trail
 - Doe Mountain  - 1.5 to 2.5 Miles  
 - Little Horse Trail to Chicken Point - 4 Miles  
 - Secret Slick Rock - 0.8 Miles
--[ Tool Winery](https://maps.app.goo.gl/RRzm9yQShmu7xRqz9?g_st=ac)  
+- [Tool Winery](https://maps.app.goo.gl/RRzm9yQShmu7xRqz9?g_st=ac)  
 
 [The Wave Permit](https://www.recreation.gov/permits/4251909)  
 -------[Pickup Here](https://maps.app.goo.gl/pWbazDyDY8z6FGPq8)  
